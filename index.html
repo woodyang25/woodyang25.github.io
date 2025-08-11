@@ -16,6 +16,9 @@
    		    background: #EFEFEF;
 		}
 		.page-top{
+			position: fixed;
+			top: 0;
+			left: 0;
 			display: flex;
 		    align-items: center;
 			justify-content: space-between;
@@ -34,9 +37,23 @@
 			color: #888;
 		}
 		.page-con{
+			display: flex
 		    height: 89.2vh;
+			margin-top: 10.8vh;
 			<!--background: pink;-->
 		}
+		.page-nav{
+			position:fixed;
+			left: 0;
+			top: 10.8vh;
+			width: 10%;
+			height: 89.2vh;
+			background: #fff;
+		}
+		.page-box{
+			height：6000px;
+		}
+			
 	</style>
         </head>
         <body>
@@ -50,7 +67,12 @@
 		</div>
 		<!-- 内容区 -->
 		<div class="page-con">
-		neirong
+			<div class="pc-nav">
+				菜单
+			</div>
+			<div class ="pc-box">
+				neirong
+			</div>
 		</div>
 	</div>
         </body>
