@@ -343,6 +343,7 @@ body{
 	line-height: 35px;
 }
 .cf input{
+	outline: none;
 	width: 380px;
 	height: 35px;
 	line-height: 35px;
@@ -368,6 +369,7 @@ body{
 	margin-left: 160px;
 }
 .cf-btn  button{
+	cursor: pointer;
 	width: 100px;
 	height: 35px;
 	border-radius: 10px;
@@ -379,4 +381,7 @@ body{
 .cf-btn button[type=submit]{
 	color: #fff;
 	background: #E98D0A;
+}
+.cf-btn button :hover{
+	opacity: 0.56;
 }
