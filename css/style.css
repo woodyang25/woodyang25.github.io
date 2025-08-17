@@ -330,15 +330,19 @@ body{
 }
 .cf form label{
 	display: block;
+	margin-bottom: 20px;
 }
 .cf form label span{
 	display: inline-block;
 	width: 130px;
 	text-align: right;
+	margin-right: 30px;
 }
 .cf input{
 	width: 320px;
 	height: 35px;
 	line-height: 35px;
 	border-radius: 10px;
+	padding: 20px;
+	border: 1px solid #999999;
 }
