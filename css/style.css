@@ -370,4 +370,12 @@ body{
 .cf-btn  button{
 	width: 100px;
 	height: 35px;
+	border-radius: 10px;
+	border: none;
+	margin-right: 25px;	
+	color: #999999;
+}
+.cf-btn button[type=submit]{
+	color: #fff;
+	background: #E98D0A;
 }
