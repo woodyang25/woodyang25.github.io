@@ -260,6 +260,17 @@
 			font-size: 2cpx;
 			font-weight: 400;
 			color:#555;
+			line-height: 29px;
+			margin-bottom: 10px;
+		}
+		.about-page-text p span{
+			margin-right: 20px;
+		}
+		.about-page-text h2{
+			font-size: 24px;
+			font-weight: 400;
+			color: #333;
+			margin: 30px 0 10px;
 		}
 		.about-page-img{
 			width: 40%;
