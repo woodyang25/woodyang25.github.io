@@ -70,8 +70,8 @@
 			padding: 20px 0;
 			color: #333;
 		}
-		.nav .active .nav a:hover{
-			color: #000;
+		.nav .active{
+			color: #E98D0A;
 		}
 		.code{
 			width: 100%;
