@@ -322,4 +322,7 @@ body{
 .cib-right ul li{
 	list-style: none;
 	margin-left: 30px;
+	font-size: 12px;
+	color: #555555;
+	text-align: center;
 }
