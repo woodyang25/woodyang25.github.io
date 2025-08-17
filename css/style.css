@@ -339,6 +339,8 @@ body{
 	width: 130px;
 	text-align: right;
 	margin-right: 30px;
+	height: 35px;
+	line-height: 35px;
 }
 .cf input{
 	width: 380px;
