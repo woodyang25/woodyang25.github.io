@@ -96,12 +96,12 @@ body{
 }
 .banner{
 	<!--width: 1230px;-->
-	width: 75%;
+	width: 80%;
 	height: 350px;
 }
 .banner img{
 	display: block;
-	width: 63vw;
+	width: 67.2vw;
 	height: 100%; 
 	object-fit: cover;
 	border-radius: 10px;
