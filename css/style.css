@@ -374,6 +374,7 @@ body{
 	border: none;
 	margin-right: 25px;	
 	color: #999999;
+	background: #EFEFEF;
 }
 .cf-btn button[type=submit]{
 	color: #fff;
