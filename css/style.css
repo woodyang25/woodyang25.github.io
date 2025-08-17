@@ -71,6 +71,7 @@
 			color: #333;
 		}
 		.nav .active .nav a:hover{
+            font-weight: bold;
 			color: #E98D0A;
 		}
 		.code{
