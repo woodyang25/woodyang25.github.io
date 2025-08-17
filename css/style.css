@@ -331,7 +331,7 @@ body{
 .cf form label{
 	display: block;
 	<!--display:flex;align-items: flex-start;-->
-	margin-bottom: 20px;
+	margin-bottom: 30px;
 }
 .cf form label span{
 	float: left;
