@@ -330,8 +330,7 @@ body{
 }
 .cf form label{
 	display: block;
-	<!--display:flex;align-items: flex-start;-->
-	margin-bottom: 50px;
+	margin-bottom: 20px;
 }
 .cf form label span{
 	float: left;
@@ -368,7 +367,7 @@ body{
 .cf-btn{
 	margin-left: 160px;
 }
-.cf-btn  button{
+.cf-btn button{
 	cursor: pointer;
 	width: 100px;
 	height: 38px;
