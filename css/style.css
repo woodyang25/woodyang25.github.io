@@ -70,7 +70,7 @@ body{
 	padding: 20px 0;
 	color: #333;
 }
-.nav .active, .nav a:hover{
+.nav .active,.nav a:hover{
 	color: #E98D0A;
 }
 .code{
