@@ -347,12 +347,12 @@ body{
 	height: 35px;
 	line-height: 35px;
 	border-radius: 6px;
-	padding: 20px;
+	padding-left: 20px;
 	font-size: 16px;
 	font-family: '黑体';
 	border: 1px solid #999999;
 }
-.cf textarea{
+.cf textarea{ 
 	width: 360px;
 	padding: 20px;
 	height: 120px;
@@ -363,4 +363,11 @@ body{
 }
 .cf form input::placeholder, .cf form textarea::placeholder{
 	color: #55555562;
+}
+.cf-btn{
+	margin-left: 160px;
+}
+.cf-btn  button{
+	width: 100px;
+	height: 35px;
 }
