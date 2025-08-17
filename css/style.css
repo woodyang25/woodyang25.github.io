@@ -282,3 +282,9 @@
 		.work-page{
 			margin-top: 3px;
 		}
+		.contact{
+			background: #fff;
+			border-radius: 10px;
+			margin: 40px 0;
+			padding: 40px 35px;
+		}
