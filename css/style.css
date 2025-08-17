@@ -290,13 +290,20 @@ body{
 }
 .ci-box{
 	background: #f7f7f7;
+	justify-content: space-between;
 	border-radius: 10px;
 	padding: 25px;
 }
-.ci-box img{
+.cib-left{
+	display: flex;
+	align-items: center;
+}
+.cib-left img{
 	width: 136px;
 	height: 136px;
-}
+	border-radius: 50%;
+	object-fit: cover;
+} 
 .cib-right img{
 	width: 60px;
 	height: 60px;
