@@ -294,6 +294,7 @@ body{
 	justify-content: space-between;
 	border-radius: 10px;
 	padding: 25px;
+	margin: 35px 0 57px;
 }
 .cib-left{
 	display: flex;
