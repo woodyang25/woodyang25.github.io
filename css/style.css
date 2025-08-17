@@ -371,7 +371,7 @@ body{
 .cf-btn  button{
 	cursor: pointer;
 	width: 100px;
-	height: 35px;
+	height: 38px;
 	border-radius: 10px;
 	border: none;
 	margin-right: 25px;	
@@ -382,6 +382,6 @@ body{
 	color: #fff;
 	background: #E98D0A;
 }
-.cf-btn button :hover{
+.cf-btn button:hover{
 	opacity: 0.56;
 }
